@@ -1,0 +1,6 @@
+1. La práctica con la que cambió mi forma de pensar. ¿En qué cambió?
+-La práctica que cambió mi forma de pensar fue la del cajero que devuelve billetes según la canntidad de dinero que se le ingrese, me pareció muy interesante la forma en la que se resolvió, ya que se utilizaron bucles y yo no lo hubiera hecho así.
+2. La práctica que representó un desafío. ¿Por qué?
+-En general las prácticas las sentí fáciles, pero la que presentó un desafio fue el primer proyecto, ya que eran muchas validaciones, y un código demasiado grande.
+3. Esta práctica me permitió aplicar mis capacidades. Describir cuáles.
+-En general todas las prácticas desarrollaron mi pensamiento lógico.
