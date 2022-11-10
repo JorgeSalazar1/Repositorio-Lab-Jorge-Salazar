@@ -1,0 +1,17 @@
+C:\Users\jorge\OneDrive\Escritorio\Progra\L7_JJSC_1202022\L7_JJSC_1202022\bin\Debug\net6.0-windows\L7_JJSC_1202022.exe
+C:\Users\jorge\OneDrive\Escritorio\Progra\L7_JJSC_1202022\L7_JJSC_1202022\bin\Debug\net6.0-windows\L7_JJSC_1202022.deps.json
+C:\Users\jorge\OneDrive\Escritorio\Progra\L7_JJSC_1202022\L7_JJSC_1202022\bin\Debug\net6.0-windows\L7_JJSC_1202022.runtimeconfig.json
+C:\Users\jorge\OneDrive\Escritorio\Progra\L7_JJSC_1202022\L7_JJSC_1202022\bin\Debug\net6.0-windows\L7_JJSC_1202022.dll
+C:\Users\jorge\OneDrive\Escritorio\Progra\L7_JJSC_1202022\L7_JJSC_1202022\bin\Debug\net6.0-windows\L7_JJSC_1202022.pdb
+C:\Users\jorge\OneDrive\Escritorio\Progra\L7_JJSC_1202022\L7_JJSC_1202022\obj\Debug\net6.0-windows\L7_JJSC_1202022.csproj.AssemblyReference.cache
+C:\Users\jorge\OneDrive\Escritorio\Progra\L7_JJSC_1202022\L7_JJSC_1202022\obj\Debug\net6.0-windows\L7_JJSC_1202022.Form1.resources
+C:\Users\jorge\OneDrive\Escritorio\Progra\L7_JJSC_1202022\L7_JJSC_1202022\obj\Debug\net6.0-windows\L7_JJSC_1202022.csproj.GenerateResource.cache
+C:\Users\jorge\OneDrive\Escritorio\Progra\L7_JJSC_1202022\L7_JJSC_1202022\obj\Debug\net6.0-windows\L7_JJSC_1202022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorge\OneDrive\Escritorio\Progra\L7_JJSC_1202022\L7_JJSC_1202022\obj\Debug\net6.0-windows\L7_JJSC_1202022.AssemblyInfoInputs.cache
+C:\Users\jorge\OneDrive\Escritorio\Progra\L7_JJSC_1202022\L7_JJSC_1202022\obj\Debug\net6.0-windows\L7_JJSC_1202022.AssemblyInfo.cs
+C:\Users\jorge\OneDrive\Escritorio\Progra\L7_JJSC_1202022\L7_JJSC_1202022\obj\Debug\net6.0-windows\L7_JJSC_1202022.csproj.CoreCompileInputs.cache
+C:\Users\jorge\OneDrive\Escritorio\Progra\L7_JJSC_1202022\L7_JJSC_1202022\obj\Debug\net6.0-windows\L7_JJSC_1202022.dll
+C:\Users\jorge\OneDrive\Escritorio\Progra\L7_JJSC_1202022\L7_JJSC_1202022\obj\Debug\net6.0-windows\refint\L7_JJSC_1202022.dll
+C:\Users\jorge\OneDrive\Escritorio\Progra\L7_JJSC_1202022\L7_JJSC_1202022\obj\Debug\net6.0-windows\L7_JJSC_1202022.pdb
+C:\Users\jorge\OneDrive\Escritorio\Progra\L7_JJSC_1202022\L7_JJSC_1202022\obj\Debug\net6.0-windows\L7_JJSC_1202022.genruntimeconfig.cache
+C:\Users\jorge\OneDrive\Escritorio\Progra\L7_JJSC_1202022\L7_JJSC_1202022\obj\Debug\net6.0-windows\ref\L7_JJSC_1202022.dll
